@@ -469,7 +469,7 @@
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
     "wcwidth": "^1.0.1",
-    "webpack": "^5.74.0",
+    "webpack": "^5.76.0",
     "webpack-dev-middleware": "^5.3.3",
     "webpack-dev-server": "^4.11.0",
     "webpack-merge": "^5.8.0",
