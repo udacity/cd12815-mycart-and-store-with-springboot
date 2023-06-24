@@ -404,7 +404,7 @@
     "schema-utils": "^2.7.1",
     "select-hose": "^2.0.0",
     "selfsigned": "^2.1.1",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "send": "^0.18.0",
     "serialize-javascript": "^6.0.0",
     "serve-index": "^1.9.1",
